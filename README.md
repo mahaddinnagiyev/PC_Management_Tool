@@ -57,6 +57,16 @@ To run the app, follow these steps:
    python app.py
    ```
 
+If you'd like to download the app as an `.exe` file, use the following link:
+<a href="https://drive.google.com/drive/folders/1M2OWxoBiiwyKsOrPzkypAMcijrxr2MI2?usp=drive_link">Download Link</a>
+
+After downloading, navigate to the `/dist/` folder and run `app.exe` by executing:
+```bash
+./dist/app.exe
+```
+
+after download enter and click /dist/app.exe
+
 ## How to Use
 
 Once you run the app, you can access the following functionalities:
