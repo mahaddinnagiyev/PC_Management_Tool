@@ -1,0 +1,16 @@
+pip install psutil
+pip install screen-brightness-control
+
+pip install ctypes-callable
+pip install comtypes
+pip install pycaw
+
+pip install geopy
+pip install timezonefinder
+pip install pytz
+
+pip install tkcalendar
+pip install PyAutoGUI
+
+Github: https://github.com/nagiyev9
+LinkedIn: https://www.linkedin.com/in/nagiyev-mahaddin-3395a72a0/
