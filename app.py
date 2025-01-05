@@ -477,7 +477,7 @@ class App(tk.Tk):
 
         def github():
             wb.register('chrome', None)
-            wb.open('https://github.com/nagiyev9')
+            wb.open('https://github.com/mahaddinnagiyev')
 
         def web():
             wb.register('chrome', None)
